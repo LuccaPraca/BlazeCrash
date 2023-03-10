@@ -25,6 +25,9 @@ Esse programa e uma ferramenta para automatizar suas análises e envio de mensag
  # uso com as estratégias já programadas #
 Para executar o programa basta baixar o projeto e subistituir as seguintes variaveis: 
 botClient = new TelegramBotClient("TELEGRAM_BOT_TOKEN_AQUI"); , e subistituir "TELEGRAM_BOT_TOKEN_AQUI" pelo token do bot do telegram criado no BotFather.
+
+
+
 long chatId = "ID_SALA_TELEGRAM"; , e subistituir "ID_SALA_TELEGRAM" pelo id do grupo/canal do telegram obitido encaminhando uma mensagem do grupo para o bot JsonDumpBot no privado.
 
  # uso com estrategias personalizadas #
