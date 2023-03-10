@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWl+DOz8OSz4LYs5Ood7LA9hth22wNGPV7qrlUNysxlHzEl1Le0WtD3se7l7tbygMKtvGFClQ/nW8p+IdBvCjQ==",
+  "success": true,
+  "projectFilePath": "H:\\freelas\\faculdade do amigo\\BlazeCrashBOT ADM\\BlazeCrashBOT ADM\\BlazeCrashBOT ADM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lprac\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lprac\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
