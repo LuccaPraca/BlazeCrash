@@ -48,4 +48,13 @@ Apos seguir esse passo , e so ir na funcao CheckEstrategias(List<Estrategias> Li
                 }
 # contato # 
 
-telegram: @Luccapraca
+telegram: [@Luccapraca](https://web.telegram.org/k/#@Luccapraca).
+
+  
+
+  
+  
+  ### License
+
+Copyright © 2023, [Lucca Peixoto Praça](https://github.com/LuccaPraca).
+
