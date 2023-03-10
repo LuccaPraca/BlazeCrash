@@ -14,14 +14,14 @@
 
 Esse programa e uma ferramenta para automatizar suas análises e envio de mensagem em grupos/canal do telegram , com ele você adicionará os padrões que você irá seguir e a forma no qual o robô irá analisar e de forma automática pela API da blaze e enviará de forma automatica mensagens para seu grupo/canal os sinais escolhidos.
 
-# requisitos #
+# 💻requisitos💻 #
 -visual Studio 2022 community
 
 -.net 6.0
 
 -conhecimento básico em c# para alterar as estratégias
 
-## instruções de uso ##
+## 🚀instruções de uso🚀 ##
  # uso com as estratégias já programadas #
 Para executar o programa basta baixar o projeto e subistituir as seguintes variaveis: 
 botClient = new TelegramBotClient("TELEGRAM_BOT_TOKEN_AQUI"); , e subistituir "TELEGRAM_BOT_TOKEN_AQUI" pelo token do bot do telegram criado no BotFather.
