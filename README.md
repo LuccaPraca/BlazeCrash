@@ -12,12 +12,13 @@
 
 ## 🤖 Bot Blaze Crash Com Sala de Sinais
 
-#descricao#
 Esse programa e uma ferramenta para automatizar suas análises e envio de mensagem em grupos/canal do telegram , com ele você adicionará os padrões que você irá seguir e a forma no qual o robô irá analisar e de forma automática pela API da blaze e enviará de forma automatica mensagens para seu grupo/canal os sinais escolhidos.
 
 # requisitos #
 -visual Studio 2022 community
+
 -.net 6.0
+
 -conhecimento básico em c# para alterar as estratégias
 
 ## instruções de uso ##
